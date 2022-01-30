@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#eChart {
+  /* height: 100vh; */
+}
+
+#eChart > * {
+  /* height: 100% !important;
+  width: 100% !important; */
+}
+
+.container {
+  @apply mx-auto px-4 md:px-0;
+}

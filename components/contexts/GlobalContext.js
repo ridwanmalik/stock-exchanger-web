@@ -18,7 +18,7 @@ export const GlobalProvider = (props) => {
       if (trading) {
         setState(prevState => ({
           ...prevState,
-          trading,
+          trading: trading,
           loading: false
         }))
       }
