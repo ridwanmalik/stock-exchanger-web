@@ -1,6 +1,6 @@
-# React Task Tracker
+# Stock Exchanger
 
-A Simple React Appliction To Track Your Task
+A Simple React Application To Track Stock Exchange Rates.
 
 ## QuickStart
 
@@ -12,7 +12,8 @@ After Cloning The Repository:
 
 ### Contact Me
 
-Facebook: [https://www.facebook.com/sk.ridwan.malik/](https://www.facebook.com/sk.ridwan.malik/)
+Facebook:
+[https://www.facebook.com/sk.ridwan.malik/](https://www.facebook.com/sk.ridwan.malik/)
 
 Github: [https://github.com/ridwanmalik](https://github.com/ridwanmalik)
 
