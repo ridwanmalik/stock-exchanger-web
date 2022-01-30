@@ -8,7 +8,9 @@ After Cloning The Repository:
 
 1. Open terminal in project directory
 2. run `npm install`
-3. run `npm run dev`
+3. Copy `.env.example` file to `.env.local` on the root folder. You can type `copy .env.example .env.local` on Windows or `cp .env.example .env.local` on linux/Mac
+4. put `NEXT_PUBLIC_API_URL` & `NEXT_PUBLIC_APP_URL` in `.env.local` file if you need to change the url
+5. run `npm run dev`
 
 ### Contact Me
 
